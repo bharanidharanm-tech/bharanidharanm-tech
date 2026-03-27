@@ -1,7 +1,7 @@
 <!-- Header Animation -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=180&section=header&text=Bharanidharan&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=180&section=header&text=Bharanidharanm&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
