@@ -1,10 +1,6 @@
 <!-- Header Animation -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=180&section=header&text=Bharanidharanm&fontSize=40&fontColor=ffffff" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer;Corporate+Technical+Trainer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation🚀" />
 </p>
 
